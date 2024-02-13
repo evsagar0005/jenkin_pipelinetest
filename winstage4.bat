@@ -1,1 +1,1 @@
-echo "Stage 2 ran successfully"
+echo "Stage 4 ran successfully"
